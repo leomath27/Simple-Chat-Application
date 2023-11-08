@@ -1,9 +1,9 @@
 # SEG2105_A2 Simple Chat Application
-/n SEG2105 Assignment 2
+SEG2105 Assignment 2 <br>
 Section A
 
-By: Leon Mathews
-Std#: 300307926
+By: Leon Mathews<br>
+Std#: 300307926<br>
 Prof: Hussein Al Osman
 
 
