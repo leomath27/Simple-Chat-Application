@@ -1,5 +1,5 @@
 # SEG2105_A2 Simple Chat Application
-SEG2105 Assignment 2
+/n SEG2105 Assignment 2
 Section A
 
 By: Leon Mathews
